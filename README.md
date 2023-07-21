@@ -1,0 +1,1 @@
+Made a landing page for a website as per The Odin Project's assignment. The page is created using only HTML, CSS and Flexbox.
